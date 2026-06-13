@@ -1,23 +1,36 @@
-🔗 Working Demo
+## 🔗 Working Demo
 
-Check out the live working demo of the project here:
+Check out the working demonstration of this project:
 
-👉 Live Demo Link : https://drive.google.com/file/d/1YvbqgHF7Lin6K18phnt4FEL-1NeytNAo/view?usp=sharing
+👉 **Live Demo:**  
+https://drive.google.com/file/d/1YvbqgHF7Lin6K18phnt4FEL-1NeytNAo/view?usp=sharing
 
-📂 Dataset Information
 
-📥 Download
+## 📂 Dataset Information
 
-The dataset used in this project can be downloaded from Kaggle:
+The dataset used in this project is the **Municipal Solid Waste Dataset**, which contains images of different waste categories for classification and analysis.
 
-🔗 Municipal Solid Waste Dataset on Kaggle
+The dataset helps the model learn to identify various types of waste and supports automated waste classification for efficient waste management.
 
-⚠️ Note: The dataset is not included in this repository due to size limits. Please download it manually from the Kaggle link above.
 
-🧪 Data Split
+## 📥 Download Dataset
 
-After downloading, the dataset was split into the following:
+The dataset can be downloaded from Kaggle:
 
-Training Set: 80% of the data
+🔗 **Municipal Solid Waste Dataset on Kaggle**
 
-Testing Set: 20% of the data
+
+## 🧪 Data Split
+
+For training and testing the model, the dataset was divided into:
+
+- **Training Set:** 80% of the dataset
+
+- **Testing Set:** 20% of the dataset
+
+
+## ⚠️ Note
+
+The dataset is not uploaded to this repository due to GitHub storage limitations.
+
+Please download the dataset manually from Kaggle and place it in the required project directory before running the application.
